@@ -4,6 +4,6 @@
 
 #### Any background context you want to provide?
 
-#### What are the relevant Github Issues?
+#### What is the relevant PT story?
 
-#### Questions:
+#### Screenshots:
